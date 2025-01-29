@@ -1,0 +1,11 @@
+SD= Social Deficiencies
+SI= Social Inclusion
+CI= Coasta Infraestructure
+DT= Diving Tourism
+FH= Industrial Fishing Hours
+CP= Coastal Population
+All variables are normalized to a 0 to 1 range
+
+CP_adj= Coastal Population raw values
+
+
